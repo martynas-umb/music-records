@@ -1,0 +1,24 @@
+{
+    "albums": [{
+            "id": 27,
+            "album": "Live Nassau Coliseum '76",
+            "artist": "David Bowie",
+            "releaseDate": "2017",
+            "image": "R-9810399-1488017290-6920.jpeg.jpg"
+        },
+        {
+            "id": 28,
+            "album": "Born In The Echoes",
+            "artist": "Chemical Brothers",
+            "releaseDate": "2015",
+            "image": "R-7246082-1437132130-3558.png.jpg"
+        },
+        {
+            "id": 29,
+            "album": "",
+            "artist": "Bonobo",
+            "releaseDate": "2017",
+            "image": "migration-main.jpg"
+        }
+    ]
+}
